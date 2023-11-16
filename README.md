@@ -1,3 +1,3 @@
 # SpartanCoding.github.io
-So like uh yeah i code
-I need help pls
+Title: SpartanCoding2
+Description: So like uh i update whats happening here so like yeah...
